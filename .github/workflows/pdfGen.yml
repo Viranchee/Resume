@@ -1,0 +1,18 @@
+name: Pandoc Document Conversion
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    name: Convert via Pandoc
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v1
+      - run: mkdir output
+      - uses: docker://pandoc/latex:2.9
+        with:
+          args: "-s -f gfm --self-contained --pdf-engine=xelatex --highlight-style pygments -V geometry:\"top=2cm, bottom=1.5cm, left=1.5cm, right=1.5cm\" -V pagestyle=empty -V colorlinks -V urlcolor=NavyBlue -V toccolor=Red -V svgnames=Red -V default-image-extension:\".svg\" -o output/resume.pdf ./README.md"
+      - uses: actions/upload-artifact@master
+        with:
+          name: viranchee-resume
+          path: output
