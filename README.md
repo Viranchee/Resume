@@ -19,7 +19,7 @@ In 2019, I came up with a technique on having Private Properties in Swift Protoc
 
 ## Latest Projects 
 
-- [**Popviewers**][heady], An iOS App to discover new Movies, TV Shows, and submit/view video reviews, providing a layer of authenticity, emotion. The App is in Beta stage.
+- [**Popviewers**][popviewers], An iOS App to discover new Movies, TV Shows, and submit/view video reviews, providing a layer of authenticity, emotion. The App is in Beta stage.
 - [**SwiftUI Pilot Program**][bigmtnstudios], Learning SwiftUI with Mark Moeykens
 
 ## Experience 
@@ -85,6 +85,7 @@ Projects:
 <!-- Places Worked -->
 
 [heady]: https://www.heady.io
+[popviewers]: https://apps.apple.com/us/app/popviewers-movies-tv/id1367192101
 [indiawyn]: https://www.indiawyn.com
 [earthEnergy]: http://earthenergy-ev.com/
 
