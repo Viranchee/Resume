@@ -24,13 +24,13 @@ In 2019, I came up with a technique on having Private Properties in Swift Protoc
 
 ## Experience 
 
-#### iOS App Developer, [Heady LLC][heady], April 2019 - November, 2020 | Mumbai
+#### iOS App Developer, [Heady LLC][heady], April 2019 - November 2020 (1.7 years) | Mumbai
 
 - Solo developer on **Popviewers** app, in Beta testing
 - Showed the clients a demo every week during development
 - Clients renewed contract. Strongest indicator of performance
 
-#### iOS Developer, Intern, [Indiawyn Gaming][indiawyn], November 2018 - February 2019 (3 months)  | Mumbai
+#### iOS Developer, Intern, [Indiawyn Gaming][indiawyn], November 2018 - February 2019 (3 months) | Mumbai
 
 #### Embedded Developer, [Earth Energy EV][earthEnergy], June 2017 - October 2018 (1.4 years) | Mumbai
 
