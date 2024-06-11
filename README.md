@@ -6,6 +6,9 @@ LinkedIn: [Viranchee][linkedin]
 
 ---
 
+I switched to Apple Pages on iCLoud to maintain my resume.
+
+## Information from 4 years ago:
 I currently make multimedia iPhone apps at [Heady LLC][heady]. 
 
 I also make React [eg][reactProject] and React Native [eg][rnProject] projects
